@@ -26,7 +26,6 @@ _(More solutions coming soon!)_
    git clone https://github.com/your-username/frontend-mentor-solutions.git
    ```
 2. Navigate to a specific challenge folder.
-3. Open the `index.html` file in your browser or use a live server.
 
 ## Contributions
 Feel free to explore my solutions and suggest improvements! If you find a better approach, feel free to open an issue or a pull request.
