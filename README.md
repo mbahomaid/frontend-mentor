@@ -23,7 +23,7 @@ _(More solutions coming soon!)_
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/frontend-mentor-solutions.git
+   git clone https://github.com/mbahomaid/frontend-mentor.git
    ```
 2. Navigate to a specific challenge folder.
 
