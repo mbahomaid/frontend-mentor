@@ -75,6 +75,19 @@ td {
 }
 td:last-child {
   color: hsl(14, 45%, 36%);
-
   font-weight: bold;
+}
+tr {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding-bottom: 20px;
+  border-bottom: 1px solid hsl(30, 54%, 90%);
+  padding-top: 5px;
+}
+tr:last-child {
+  border: none;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
 }
