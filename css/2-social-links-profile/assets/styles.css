@@ -1,7 +1,8 @@
 body {
-  background-color: hsl(0, 0%, 8%);
+  background-color: #0E0E0E;
   font-family: Inter;
+  color: hsl(0, 0%, 100%);
 }
 p {
-    font-size: 14px;
+  font-size: 14px;
 }
