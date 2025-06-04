@@ -9,7 +9,7 @@ Frontend Mentor provides real-world projects to help developers improve their fr
 Each project includes a live demo link so you can view the solution in action.
 
 ## Challenges Completed
-- [Challenge Name 1](#)
+- [Recipe Page](https://github.com/mbahomaid/frontend-mentor/tree/main/css/1-recipe-page)
 - [Challenge Name 2](#)
 - [Challenge Name 3](#)
 
