@@ -1,6 +1,6 @@
 body {
   background-color: #0e0e0e;
-  font-family: Inter;
+  font-family: "Inter", sans-serif;
   color: hsl(0, 0%, 100%);
 }
 p {
@@ -32,8 +32,7 @@ button {
   border: none;
   border-radius: 10px;
   width: 100%;
-  margin:  10px auto
-  ;
+  margin: 10px auto;
 }
 .location {
   color: hsl(75, 94%, 57%);
