@@ -10,7 +10,7 @@ Each project includes a live demo link so you can view the solution in action.
 
 ## Challenges Completed
 - [Recipe Page](https://github.com/mbahomaid/frontend-mentor/tree/main/css/1-recipe-page)
-- [Challenge Name 2](#)
+- [Social Links Profile](https://github.com/mbahomaid/frontend-mentor/tree/main/css/2-social-links-profile)
 - [Challenge Name 3](#)
 
 _(More solutions coming soon!)_
