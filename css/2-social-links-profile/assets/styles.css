@@ -12,9 +12,7 @@ p {
   justify-content: center;
   border-radius: 10px;
   padding: 50px;
-  margin-top: 70px;
-  margin-left: 30px;
-  margin-right: 30px;
+  margin: 20px;
 }
 .card {
   background-color: hsl(0, 0%, 12%);
