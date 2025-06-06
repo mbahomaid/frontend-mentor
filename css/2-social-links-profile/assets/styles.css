@@ -28,6 +28,12 @@ button {
   font-family: inherit;
   display: block;
   text-align: center;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  margin:  10px auto
+  ;
 }
 .location {
   color: hsl(75, 94%, 57%);
