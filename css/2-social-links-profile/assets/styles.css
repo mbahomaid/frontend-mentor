@@ -8,15 +8,31 @@ p {
 }
 .container {
   background-color: #141414;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 50px;
+  margin-top: 70px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 .card {
   background-color: hsl(0, 0%, 12%);
+  text-align: center;
+  padding: 50px;
+  border-radius: 10px;
 }
 button {
   background-color: hsl(0, 0%, 20%);
   color: hsl(0, 0%, 100%);
   font-family: inherit;
+  display: block;
+  text-align: center;
 }
 .location {
   color: hsl(75, 94%, 57%);
+}
+img {
+  border-radius: 50%;
+  width: 100px;
 }
