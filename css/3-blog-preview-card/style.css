@@ -1,0 +1,27 @@
+body {
+  font-family: "Figtree", sans-serif;
+  background-color: hsl(47, 88%, 63%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: hsl(0, 0%, 100%);
+  width: 350px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.card-img {
+  border-radius: 5px;
+  width: 100%;
+  margin: 0px auto;
+  display: block;
+}
+.badge {
+  background-color: hsl(47, 88%, 63%);
+  display: inline-block;
+  padding: 5px 2.5px;
+  border-radius: 5px;
+  font-weight: bold;
+}
