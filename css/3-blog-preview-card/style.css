@@ -42,5 +42,8 @@ body {
 }
 .heading {
     font-weight: 800;
-    font-size: 26px;
+    font-size: 24px;
+}
+.date  {
+  margin-top: -5px;
 }
