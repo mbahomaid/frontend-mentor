@@ -1,0 +1,49 @@
+body {
+  font-family: "Figtree", sans-serif;
+  font-weight: 500;
+  background-color: hsl(47, 88%, 63%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: hsl(0, 0%, 100%);
+  width: 350px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.card-img {
+  border-radius: 10px;
+  width: 100%;
+  margin: 0px auto;
+  display: block;
+}
+.badge {
+  background-color: hsl(47, 88%, 63%);
+  display: inline-block;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: 800;
+}
+.author-container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.author {
+  display: inline-block;
+  font-weight: 800;
+  margin: 0;
+}
+.profile-img {
+  width: 30px;
+  display: inline-block;
+}
+.heading {
+    font-weight: 800;
+    font-size: 24px;
+}
+.date  {
+  margin-top: -5px;
+}
